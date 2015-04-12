@@ -1,2 +1,2 @@
 # labbehavior
-A scientometric dataset of laboratory behavior studies
+A scientometric dataset of laboratory behavior studies.
